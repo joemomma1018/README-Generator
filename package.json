@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a README.md file from a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemomma1018/README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "joemomma1018",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemomma1018/README-Generator/issues"
+  },
+  "homepage": "https://github.com/joemomma1018/README-Generator#readme"
+}
