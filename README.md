@@ -10,10 +10,16 @@ A CLI (command-line application) that dynamically generates a README.md from a u
 [Installation](#Installtion) | [Usage](#Usage) | [Contribution](#Contribution) | [License](#License) | [Test](#Test)
 
 
-## Installtion
+## Installation
 `git clone https://github.com/joemomma1018/README-Generator`
 
-`npm install package`
+`npm init`
+
+Install dependencies:
+
+`npm install axios`
+
+`npm install inquirer`
 
 
 ## Usage
